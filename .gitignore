@@ -3,6 +3,8 @@ augment
 check
 converted_img
 data
+images/*
+img_data/*
 datas
 ingine
 json
@@ -13,4 +15,4 @@ test
 text
 try
 *.jpg
-Recognition_Training
+*.txt

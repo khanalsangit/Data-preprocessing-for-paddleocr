@@ -1,0 +1,1 @@
+python main_rec.py --img_dir=C:/Users/User/Desktop/Batch_Code_Updated/One_click_training/Recognition/recognition_working_directory/metal_ocr/ --crop_dir=no --count=50 --n=50x --blur=1to6 --contrast=-20to20 --elastic=500to600 --percent=70

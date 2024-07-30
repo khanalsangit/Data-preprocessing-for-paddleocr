@@ -1,0 +1,1 @@
+python main_rec.py --img_dir=D:/computervision/PaddleOCR/paddleocr_end/Recognition_Training/converted_img  --crop_dir=no --count=50  --n=5x --blur=1to6 --contrast=-20to20 --elastic=500to600 --percent=70
