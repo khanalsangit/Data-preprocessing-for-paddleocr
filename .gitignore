@@ -1,10 +1,10 @@
-*_pycache_
+_pycache_/
 augment
 check
 converted_img
 data
-images/*
-img_data/*
+images/
+img_data/
 datas
 ingine
 json
