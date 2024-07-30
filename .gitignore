@@ -11,7 +11,10 @@ json
 new
 output
 output1
-test
+Test/
+Train/
+ingine_data/
+Recognition_Cropped/
 text
 try
 *.jpg
